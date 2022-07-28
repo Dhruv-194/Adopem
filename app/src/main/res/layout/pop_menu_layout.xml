@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/menuround"
+    android:layout_margin="5dp">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+    <TextView
+        android:id="@+id/giveapet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Give a Pet"
+        android:textSize="24sp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        android:fontFamily="@font/poppins"
+        android:textColor="@color/lightBlack"
+        android:background="@drawable/border"/>
+    <TextView
+        android:id="@+id/petstoreBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pet Stores"
+        android:textSize="24sp"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        android:fontFamily="@font/poppins"
+        android:textColor="@color/lightBlack"
+        android:background="@drawable/border"/>
+        <TextView
+            android:id="@+id/petshelterBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pet Shelter"
+            android:textSize="24sp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppins"
+            android:textColor="@color/lightBlack"
+            android:background="@drawable/border"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:weightSum="3">
+        <TextView
+            android:id="@+id/petcareBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pet         Caretaker"
+            android:textSize="24sp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppins"
+            android:textColor="@color/lightBlack"
+            android:background="@drawable/border"/>
+        <TextView
+            android:id="@+id/vetBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Veterinary doctors"
+            android:textSize="21sp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppins"
+            android:textColor="@color/lightBlack"
+            android:background="@drawable/border"
+            />
+        <TextView
+            android:id="@+id/meetupBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Adopem Meetup"
+            android:textSize="21sp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppins"
+            android:textColor="@color/lightBlack"
+            android:background="@drawable/border"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:weightSum="3"
+        android:gravity="center"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/logoutBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" Logout "
+            android:textSize="24sp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:textAlignment="center"
+            android:fontFamily="@font/poppins"
+            android:textColor="@color/lightBlack"
+            android:background="@drawable/border"/>
+    </LinearLayout>
+</LinearLayout>

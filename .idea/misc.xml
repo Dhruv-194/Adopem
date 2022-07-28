@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/gradient_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/gradient_bg1.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/gradient_bg2.xml" value="0.105" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/gradient_bg_onboarding.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/menuround.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/drawable/roundbtn.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_adopem_meetup.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_adopt_homepage.xml" value="0.2534775888717156" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_adopt_pet_details.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_give_pet.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_pet_care_takers_acitivty.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/item_adopem_meetup.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/item_adopem_meetups.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/item_petcaretaker.xml" value="0.13999999999999999" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/item_petlist_main.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/petcaretaker_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/pop_menu_layout.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Asus/Documents/Android Studio Projects/Adopem/app/src/main/res/layout/slider.xml" value="0.14130434782608695" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
